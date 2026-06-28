@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prem+%F0%9F%91%8B;Full-Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prem+%F0%9F%91%8B;Full-Stack+Developer;PWA+%26+App+Builder;UI%2FUX+Enthusiast" alt="Typing SVG" />
 
-<!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&animation=fadeIn" />
+<!-- Custom Glassmorphic Numbers Banner -->
+<img width="100%" src="https://raw.githubusercontent.com/mynameisprem-pj/mynameisprem-pj/main/banner.gif" alt="Banner" />
 
 </div>
 
@@ -17,13 +17,13 @@
 ```yaml
 name:       Prem
 location:   Harion, Sarlahi — Nepal 🇳🇵
+focus:      PWA · Cross-Platform · Local-First
 passion:    Turning complex problems into
             elegant, functional software
 style:      Glassmorphism · Neon Dark · Minimal
 ```
 
-- 🚀 Building cross-platform apps & intelligent local tools
-- ⚡ Obsessed with performance and offline-first architecture  
+- 🚀 Building cross-platform apps & intelligent tools
 - 🎨 UI nerd — glassmorphism, neon dark themes, clean motion
 - 📦 Speculative builder: ship first, pitch second
 - 🌐 Based in Nepal, building for real-world local use cases
@@ -39,7 +39,6 @@ style:      Glassmorphism · Neon Dark · Minimal
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590339523334)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/premz_ha/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mynameisprem-pj)
-
 
 </div>
 
@@ -92,15 +91,14 @@ style:      Glassmorphism · Neon Dark · Minimal
 
 <div align="center">
 
-<!-- Stats + Languages side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=mynameisprem-pj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisprem-pj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-ten-tau-68.vercel.app/api?username=mynameisprem-pj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-ten-tau-68.vercel.app/api/top-langs/?username=mynameisprem-pj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 
-<!-- Streak Stats -->
 <br/>
 <img src="https://streak-stats.demolab.com?user=mynameisprem-pj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="70%" />
 
-<!-- Activity Graph -->
+
+
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mynameisprem-pj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 
@@ -132,9 +130,6 @@ style:      Glassmorphism · Neon Dark · Minimal
 ---
 
 <div align="center">
-
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
 
 *"Your proof of work is your best resume."*
 
