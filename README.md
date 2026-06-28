@@ -100,10 +100,6 @@ style:      Glassmorphism · Neon Dark · Minimal
 <br/>
 <img src="https://streak-stats.demolab.com?user=mynameisprem-pj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="70%" />
 
-<!-- Trophies -->
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=mynameisprem-pj&theme=tokyonight&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies" />
-
 <!-- Activity Graph -->
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mynameisprem-pj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
@@ -121,8 +117,6 @@ style:      Glassmorphism · Neon Dark · Minimal
     <img alt="Snake animation" src="https://raw.githubusercontent.com/mynameisprem-pj/mynameisprem-pj/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> ⚙️ **Snake is auto-generated** by a GitHub Actions workflow in this repo. It updates daily.
 
 ---
 
