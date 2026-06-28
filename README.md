@@ -91,7 +91,7 @@ style:      Glassmorphism · Neon Dark · Minimal
 
 <div align="center">
 
-<img src="https://github-readme-stats-ten-tau-68.vercel.app/api?username=mynameisprem-pj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mynameisprem-pj&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats-ten-tau-68.vercel.app/api/top-langs/?username=mynameisprem-pj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 
 <br/>
