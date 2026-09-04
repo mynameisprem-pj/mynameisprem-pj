@@ -81,20 +81,6 @@ style:      Glassmorphism · Neon Dark · Minimal
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-
-<img src="https://github-readme-stats-ten-tau-68.vercel.app/api/top-langs/?username=mynameisprem-pj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-
-<br/>
-
-
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mynameisprem-pj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
-
-</div>
 
 ---
 
